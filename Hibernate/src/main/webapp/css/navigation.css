@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+
+.navbar-brand{
+	margin-left:10px;
+	margin-right:10px;
+}
+
+.searchFrom{
+	margin-left: auto;
+}
